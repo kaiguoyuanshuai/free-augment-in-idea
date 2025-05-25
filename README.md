@@ -1,7 +1,7 @@
 # free-augment-in-idea
 free-augment-in-idea 
 
-## 第一步： 退出你登录Augment 账号 
+## 第一步： 退出你登录Augment 账号 (重要)
 
 ![退出](image.png)
 
